@@ -356,10 +356,10 @@ div::-webkit-scrollbar-thumb:hover {
 .projectsText{
 	position: fixed;
 /*	top: 300px;
-	right: 10px;*/
+	left: 952px;*/
 
 	top: 44.38%;
-	right: 0.78%;
+	left: 74.32%;
 
 	height: 0px;
 	width: 300px;
@@ -372,11 +372,12 @@ div::-webkit-scrollbar-thumb:hover {
 
 .projectsClose{
 	position: fixed;
-/*	top: 310px;
-	right: 355px;*/
+/*	top: 310px;*/
+/*	left: 887px;*/
 
 	top: 45.86%;
-	right: 27.71%;
+	left: 69.24%;
+/*	right: 27.71%;*/
 
 	width: 40px;
 	height: 40px;
@@ -454,11 +455,11 @@ div::-webkit-scrollbar-thumb:hover {
 /******************** links text ********************/
 .linksText{
 	position: fixed;
-/*	top: 540px;
-	right: 100px;*/
+/*	top: 540px;*/
+/*	left: 855px;*/
 
 	top: 79.88%;
-	right: 7.8%;
+	left: 66.74%;
 
 	height: 0px;
 	width: 300px;
@@ -470,11 +471,11 @@ div::-webkit-scrollbar-thumb:hover {
 
 .linksClose{
 	position: fixed;
-/*	top: 550px;
-	right: 455px;*/
+/*	top: 550px;*/
+	left: 787px; 
 
 	top: 81.36%;
-	right: 35.52%;
+	left: 61.44%;
 
 	width: 40px;
 	height: 40px;
@@ -928,11 +929,12 @@ b:hover{
 
 .pro06_bapText{
 	position: fixed;
-/*	top: 45px;
-	right: 205px;*/
+/*	top: 45px;*/
+/*	left: 760px;*/
 
 	top: 6.65%;
-	right: 16%;
+	left: 59.32%;
+
 
 	width: 300px;
 	/*	height: 140px;*/
@@ -946,11 +948,11 @@ b:hover{
 
 .pro06_bapClose{
 	position: fixed;
-/*	top: 51px;
-	right: 548px;
-*/
+/*	top: 51px;*/
+/*	left: 708px;*/
+
 	top: 7.54%;
-	right: 42.78%;
+	left: 55.27%;
 
 	width: 20px;
 	height: 20px;
@@ -998,11 +1000,11 @@ b:hover{
 
 .pro07_strText{
 	position: fixed;
-/*	top: 395px;
-	right: 96px;*/
+/*	top: 395px;*/
+/*	left: 875px;*/
 
 	top: 58.43%;
-	right: 7.5%;
+	left: 68.31%;
 
 	width: 300px;
 	/*	height: 195px;*/
@@ -1017,11 +1019,11 @@ b:hover{
 
 .pro07_strClose{
 	position: fixed;
-/*	top: 401px;
-	right: 439px;*/
+/*	top: 401px;*/
+/*	left: 823px;*/
 
 	top: 59.31%;
-	right: 34.27%;
+	left: 64.25%;
 
 	width: 20px;
 	height: 20px;
@@ -1070,11 +1072,11 @@ b:hover{
 
 .pro08_ilmText{
 	position: fixed;
-/*	top: 200px;
-	right: 30px;
-*/
+/*	top: 200px;*/
+/*	left: 940px;*/
+
 	top: 29.58%;
-	right: 2.34%;
+	left: 73.38%;
 
 	width: 300px;
 	/*	height: 212px;*/
@@ -1088,11 +1090,11 @@ b:hover{
 
 .pro08_ilmClose{
 	position: fixed;
-/*	top: 206px;
-	right: 373px;*/
+/*	top: 206px;*/
+/*	left: 888px;*/
 
 	top: 30.47%;
-	right: 29.12%;
+	left: 69.32%;
 
 	width: 20px;
 	height: 20px;
@@ -1211,11 +1213,11 @@ b:hover{
 
 .pro10_lboText{
 	position: fixed;
-/*	top: 495px;
-	right: 405px;*/
+/*	top: 495px;*/
+/*	left: 570px;*/
 
 	top: 73.22%;
-	right: 31.61%;
+	left: 44.5%;
 
 	width: 300px;
 	/*	height: 140px;*/
@@ -1229,11 +1231,11 @@ b:hover{
 
 .pro10_lboClose{
 	position: fixed;
-/*	top: 501px;
-	right: 748px;*/
+/*	top: 501px;*/
+/*	left: 518px; */
 
 	top: 74.11%;
-	right: 58.39%;
+	left: 40.44%;
 
 	width: 20px;
 	height: 20px;
@@ -1242,7 +1244,6 @@ b:hover{
 
 	cursor: pointer;
 }
-
 .pro10_lboBar1{
 	position: absolute;
 	width: 100%;
